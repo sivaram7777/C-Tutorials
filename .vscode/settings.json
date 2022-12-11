@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "AreaofSquare.C": "cpp",
+        "A.C": "cpp",
+        "cmath": "c",
+        "stdio.h": "c",
+        "fileio_7c": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
